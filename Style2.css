@@ -1,0 +1,39 @@
+body { margin: 0; }
+header {
+background-color: red;  
+height: 400px;
+color: white;
+     }
+	 header ul a {
+    margin-left:600px;
+    display: inline-block;
+	margin-top:10px
+		 }
+header img
+{
+ position: absolute;
+ width:650px;
+ height:400px;
+	 }
+	 header h1
+	 {
+	margin-left:750px;
+    display: inline-block;
+	margin-top:5px;
+	 }
+	 p { 
+    margin-right: 25%; 
+    margin-left: 25%; 
+    padding: 10px;
+   }
+ footer {
+	 background-color: yellow;
+	height: 170px;
+ }
+ footer img {
+ position: absolute;
+ width:400px;
+ height:100px;
+ margin-left:480px;
+ }
+  
